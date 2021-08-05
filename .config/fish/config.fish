@@ -78,7 +78,6 @@ alias switchcempakamas "ssh boby@172.16.101.112"
 alias switchdrc "ssh boby@172.16.101.115"
 
 #SERVER
-alias gns3 "ssh gns3@gns3.balitower.co.id"
 alias radius "ssh boby@172.16.42.112"
 alias rsyslog "ssh boby@172.16.42.115"
 alias zabbix "ssh boby@172.16.42.116"
