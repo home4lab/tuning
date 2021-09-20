@@ -59,6 +59,7 @@ alias serpong "ssh boby@172.16.102.24"
 alias joglo "ssh boby@172.16.101.13"
 alias greenmansion "ssh boby@172.16.101.14"
 alias cipulir "ssh boby@172.16.101.15"
+alias surabaya "ssh boby@172.16.101.22"
 
 #SWITCH BRANCH
 alias switchsidoarjo "ssh boby@172.16.18.10"
@@ -73,6 +74,7 @@ alias switchcipulir "ssh boby@172.16.101.108"
 alias switchcallcenter1 "ssh boby@172.16.101.109"
 alias switchcallcenter2 "ssh boby@172.16.101.110"
 alias switchcempakamas "ssh boby@172.16.101.112"
+alias switchsurabaya "ssh boby@172.16.101.122"
 
 #DRC MORATEL
 alias switchdrc "ssh boby@172.16.101.115"
