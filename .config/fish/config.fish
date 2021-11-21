@@ -41,6 +41,7 @@ alias aruba2 "ssh root@172.16.41.106"
 alias rnd "ssh boby@172.16.41.107"
 alias switchinfra "ssh boby@172.16.41.108"
 
+alias wallmount "ssh boby@172.16.41.120"
 alias lt1 "ssh boby@172.16.41.121"
 alias lt2 "ssh boby@172.16.41.122"
 alias lt3 "ssh boby@172.16.41.123"
@@ -48,7 +49,6 @@ alias lt3new "ssh boby@172.16.41.124"
 
 #SUDIRMAN
 alias lt21 "ssh boby@172.16.101.121"
-alias lt22 "ssh boby@172.16.101.122"
 
 #ROUTER BRANCH
 alias sidoarjo "ssh boby@172.16.102.20"
