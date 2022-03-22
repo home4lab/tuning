@@ -17,6 +17,7 @@ alias sudirman "ssh boby@172.16.101.4"
 alias penjernihan "ssh boby@172.16.101.7"
 alias matraman "ssh boby@172.16.101.10"
 alias batuceper "ssh boby@172.16.200.4"
+alias drc "ssh boby@172.16.101.20"
 
 #CISCO
 alias stacksudirman "ssh -oKexAlgorithms=+diffie-hellman-group1-sha1 -c aes256-cbc boby@172.16.101.101"
