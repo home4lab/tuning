@@ -51,6 +51,9 @@ alias lt3new "ssh boby@172.16.41.124"
 #SUDIRMAN
 alias lt21 "ssh boby@172.16.101.121"
 
+#PENJERNIHAN
+alias switchpenjernihan "ssh boby@172.16.101.117"
+
 #ROUTER BRANCH
 alias sidoarjo "ssh boby@172.16.102.20"
 alias bandung "ssh boby@172.16.102.21"
